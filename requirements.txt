@@ -48,7 +48,7 @@ sounddevice==0.4.1
 SoundFile==0.10.3.post1
 SpeechRecognition==3.8.1
 threadpoolctl==2.1.0
-torch==1.6.0
+#torch==1.6.0
 tqdm==4.50.2
 typing==3.7.4.3
 umap-learn==0.4.6

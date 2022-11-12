@@ -49,7 +49,7 @@ class ClientService:
             result = adding.addkey()
             extractedKeywordMap[val] = result
         outputResponseObj["extractedKeywors"] = extractedKeywordMap
-
+        print(outputResponseObj)
         return outputResponseObj
 
 
@@ -97,7 +97,8 @@ def processInputFile():
 
 if __name__ == "__main__":
     clntApp = ClientService()
-    host = '0.0.0.0'
+    #host = '0.0.0.0'
+    host = 'localhost'
     port = 5000
     httpd = simple_server.make_server(host, port, app)
     print("Serving on %s %d" % (host, port))
