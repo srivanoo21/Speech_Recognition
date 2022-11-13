@@ -48,7 +48,7 @@ class ClientService:
                                        "game": ["football"]})
             result = adding.addkey()
             extractedKeywordMap[val] = result
-        outputResponseObj["extractedKeywors"] = extractedKeywordMap
+        outputResponseObj["extractedKeywords"] = extractedKeywordMap
         print(outputResponseObj)
         return outputResponseObj
 
