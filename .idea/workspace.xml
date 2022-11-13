@@ -4,6 +4,21 @@
     <list default="true" id="b5090c81-42d6-4f64-9490-f979702a7748" name="Default Changelist" comment="updated requirements.txt">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/clientService.py" beforeDir="false" afterPath="$PROJECT_DIR$/clientService.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com_in_ineuron_ai_finaloutputsignal/StoreDiarizedOutput.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com_in_ineuron_ai_finaloutputsignal/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com_in_ineuron_ai_keywordspotter/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com_in_ineuron_ai_keywordspotter/keywordSpotter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com_in_ineuron_ai_labelling/SignalLabelling.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com_in_ineuron_ai_labelling/SignalLabelsPrediction.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com_in_ineuron_ai_labelling/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com_in_ineuron_ai_preprocessing/SingalPreprocessing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com_in_ineuron_ai_preprocessing/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com_in_ineuron_ai_service/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com_in_ineuron_ai_service/brandMeasureservice.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com_in_ineuron_ai_speech_to_text/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com_in_ineuron_ai_speech_to_text/transcriptGenerator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com_in_ineuron_ai_spellingcorrector/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com_in_ineuron_ai_spellingcorrector/spellcorrector.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
